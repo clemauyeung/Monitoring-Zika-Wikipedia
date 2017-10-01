@@ -24,3 +24,8 @@ The objective is to use data science to answer the following research questions:
 * [Portuguese Wikipedia page on Zika](https://pt.wikipedia.org/wiki/Vírus_da_zica)
 
 ## Metrics
+
+|Goal |Signal |Metric |
+|:----|:------|:------|
+| People accessed the page to look for information |  Number of people who accessed the page and when | Page views |
+| People added new content to the page | Number of people who edited the page | Revisions |
